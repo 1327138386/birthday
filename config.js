@@ -20,6 +20,8 @@ var config = {
         "以后宝贝的每个生日",
         "我都会陪在宝贝身边",
         "永远宠你",
+        "最后，祝我的宝贝",
+        "生日快乐~",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -31,7 +33,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "亲爱的宝贝": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -41,7 +43,7 @@ var config = {
         bannar_coming: "再试试？",
         balloons_flying: "还有呢~",
         cake_fadein: "宝贝的生日蛋糕",
-        light_candle: "蜡烛也不能少",
+        light_candle: "把蜡烛点上叭~",
         wish_message: "宝贝~生日快乐",
         story: "A MESSAGE FOR YOU",
     }
